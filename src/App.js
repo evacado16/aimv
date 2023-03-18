@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       {/* <Navbar /> */}
-      <IFrame url={"./disco-diffusion.html"} />
+      <IFrame url={"./basic.html"} />
       {/* <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
