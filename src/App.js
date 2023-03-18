@@ -4,10 +4,13 @@ import About from "./routes/About";
 import Careers from "./routes/Careers";
 import Home from "./routes/Home";
 import Navbar from './Navbar';
+import IFrame from './IFrame';
+
 function App() {
   return (
     <>
       <Navbar />
+      <IFrame url={"./disco-diffusion.html"} />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
