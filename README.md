@@ -17,4 +17,4 @@ To use `aimv` follow these steps:
 
 Access some example videos by following the link to the playlist below. These can also be viewed on a VR set with access to YouTube
 
-[![VR180 Playlist]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)
+[VR180 Playlist](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)
