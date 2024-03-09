@@ -10,5 +10,11 @@ To use `aimv` follow these steps:
 3. Edit the `artist` and `searchQuery` variables to use the name of the artist and track title to generate the video for
 4. Edit the default `prompt` parameters for Disco Diffusion to use
 5. Go through the rest of the setup and model settings
-6. Run the notebook, which generates the 2D, and stereo videos
+6. Run the notebook, which generates the 2D, and VR180 stereo videos
 7. Stitch and publish your video!
+
+## Example Results
+
+Access some example videos by following the link to the playlist below. These can also be viewed on a VR set with access to YouTube
+
+[![VR180 Playlist]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)https://youtube.com/playlist?list=PLlnUSZIgxOXF9NXQ2YXu3K2MhcTdZLpLO&feature=shared)
